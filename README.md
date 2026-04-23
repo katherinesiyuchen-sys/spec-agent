@@ -1,4 +1,4 @@
-# spec-agent
+# Spec Agent
 
 A two-agent pipeline that takes a plain English feature spec and breaks it down into structured dev tasks, then critiques its own output.
 
@@ -36,3 +36,5 @@ python3 pipeline.py
 - Python
 - Groq API (llama-3.3-70b-versatile)
 - No frameworks: only direct API calls
+
+The pipeline logic and system design were implemented by me, with AI used as a tool for debugging.
