@@ -24,7 +24,7 @@ Output:
 
 I built this after learning about harness engineering (the idea that an AI agent is only as good as the infrastructure around it). This project is a small demonstration of that, in which two agents with distinct roles produce more reliable output than one.
 
-## How to run
+## GO TRY IT YOURSELF!!
 
 ```bash
 pip3 install groq
