@@ -31,7 +31,7 @@ pip3 install groq
 export GROQ_API_KEY="your-key-here"
 python3 pipeline.py
 ```
-**Note**: Get your own grop API key before running this. From ```https://console.groq.com/keys```.
+**Note**: Before running this, get your own grop API key from ```https://console.groq.com/keys```. Replace "your-key-here" with your personal API key.
 Remember to NOT share your personal API key with others for privacy concerns!
 
 ## Tech
