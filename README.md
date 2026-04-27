@@ -1,4 +1,4 @@
-# Spec Agent (harness engineering demo)
+# Spec Agent
 
 A two-agent pipeline that takes a plain English feature spec and breaks it down into structured dev tasks, then critiques its own output.
 
